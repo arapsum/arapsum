@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi, I'm Kibet Bitok arap Sum 👋
+# Hi, there
 
-**Full stack developer. Rust | Javascript**
+I'm **Kibet Bitok arap Sum** (github: `arapsum`) — a Full Stack Developer specializing in Rust and JavaScript.
+
+I'm focused on backend systems and performant web apps. I enjoy exploring systems-level programming in Rust (parsers, auth, engines) while building modern TypeScript/React frontends and admin dashboards. Recently I've been learning WebGPU (wgpu) and building small engines/games to better understand graphics and performance.
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40arapsum-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/arapsum) [![X Follow](https://www.shieldcn.dev/x/follow/herefordfanboy.svg?variant=branded&size=sm)](https://x.com/herefordfanboy) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40kibet--bittok--28a88038a-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/kibet-bittok-28a88038a)
 
@@ -12,7 +14,8 @@
 
 ## 🛠️ Skills & Technologies
 
-![Rust](https://www.shieldcn.dev/badge/-Rust-000000.svg?logo=rust&variant=branded&size=sm) ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm) ![TanStack Query](https://www.shieldcn.dev/badge/-TanStack_Query-FF4154.svg?logo=reactquery&variant=branded&size=sm) ![Next.js](https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&variant=branded&size=sm) ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm) ![Zod](https://www.shieldcn.dev/badge/-Zod-3E67B1.svg?logo=zod&variant=branded&size=sm) ![Zustand](https://www.shieldcn.dev/badge/-Zustand-FFB800.svg?logo=zustand&variant=branded&size=sm) ![Biome](https://www.shieldcn.dev/badge/-Biome-60A5FA.svg?logo=biome&variant=branded&size=sm) ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded&size=sm) ![Vite](https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&variant=branded&size=sm) ![Vitest](https://www.shieldcn.dev/badge/-Vitest-6E9F18.svg?logo=vitest&variant=branded&size=sm)
+
+[![My Skills](https://skillicons.dev/icons?i=rust,js,ts,nodejs,react,nextjs,tailwind,html,css,git,github,docker,wasm,githubactions,webpack,linux,vscode,npm,yarn,vite,wasm&perline=8)](https://skillicons.dev)
 
 ---
 

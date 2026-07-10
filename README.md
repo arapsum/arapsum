@@ -28,7 +28,7 @@ I'm focused on backend systems and performant web apps. I enjoy exploring system
 - 🐙 GitHub: [github.com/arapsum](https://github.com/arapsum)
 - 🐦 Twitter: [@herefordfanboy](https://x.com/herefordfanboy)
 - 💼 LinkedIn: [Kibet Bitok arap Sum](https://www.linkedin.com/in/kibet-bittok-28a88038a/)
-- 🏢 Company: Sentinel Systems
+- 🏢 Company: Bit-Tech
 - 📍 Location: Nairobi, Kenya
 
 Feel free to open an issue or PR on any repository, or reach out on Twitter / LinkedIn for collaboration, consulting, or chatting about Rust and modern web stacks. ✉️

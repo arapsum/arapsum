@@ -7,6 +7,7 @@
 <p>
   <a href='https://github.com/arapsum'>GitHub</a> ·
   <a href='https://github.com/sk-bittok'>More projects</a> ·
+  <a href='https://github.com/simon-bittok'>Systems & Rust</a> ·
   <a href='https://www.linkedin.com/in/kibet-bittok-28a88038a/'>LinkedIn</a> ·
   <a href='https://x.com/herefordfanboy'>X</a>
 </p>
@@ -17,17 +18,19 @@ I’m a software developer based in Nairobi, Kenya. I work across systems progra
 
 ## What I build
 
-- **Reliable backend systems:** authenticated APIs, task platforms, and domain services in Rust/Axum and TypeScript/Hono.
-- **Product software for real workflows:** commerce, budgeting, task management, real estate, livestock, and supply-chain tools with roles, tenancy, and operational data.
-- **Developer tools and desktop apps:** parsers, shells, Unix utilities, worker pools, Rust/Iced editors, Tauri clients, graphics experiments, and local LLM tools.
-- **Fast product frontends:** React, Next.js, TanStack, and SvelteKit applications with responsive, focused interfaces.
+- **Backend services and auth:** Rust/Axum and TypeScript/Hono APIs with JWT, Argon2, PostgreSQL, Redis, validation, tracing, and OpenAPI.
+- **Domain software:** commerce, finance, task management, real estate, livestock, and supply-chain tools with roles, tenancy, and operational data.
+- **Terminal tools and CLIs:** Ratatui/Crossterm TUIs, JSON readers, Unix-style utilities, parsers, and concurrency experiments.
+- **Desktop, media, and local AI:** Iced applications, video tools, Rust editors, Tauri clients, and Ollama-powered workflows.
+- **Product frontends:** React, Next.js, TanStack, SvelteKit, Astro, and HTML/CSS interfaces with responsive interaction and motion.
 
 ## Current focus
 
 - Multi-tenant systems, graph-shaped data, and tools for understanding complex operational relationships.
+- Async and event-driven backends, including messaging, APIs, and data pipelines.
+- Terminal-first interfaces and compact developer tools in Rust.
 - Commerce platforms with customer storefronts, admin tooling, authentication, inventory, and order workflows.
-- Cloud-native TypeScript services with Hono, Cloudflare, PostgreSQL, Redis, and production-minded observability.
-- Rust desktop and graphics experiments with Iced, FFmpeg, wgpu, and WebGPU.
+- Rust desktop, media, graphics, and local AI experiments with Iced, FFmpeg, wgpu, Tauri, and Ollama.
 
 ## Featured work
 
@@ -50,16 +53,26 @@ I’m a software developer based in Nairobi, Kenya. I work across systems progra
 | [LLM Locally](https://github.com/sk-bittok/llm-locally) | A desktop client for running language models locally with Ollama. | Tauri, Rust, React, TypeScript |
 | [Turing](https://github.com/sk-bittok/mdblog-svelte) | A Markdown blog with RSS, syntax highlighting, filtering, and themes. | SvelteKit, MDsveX, Shiki |
 
+## Systems & terminal projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Auth Axum](https://github.com/simon-bittok/auth-axum) | A Rust authentication service with JWT, Argon2, PostgreSQL, Redis, and structured tracing. | Rust, Axum, SQLx, Redis |
+| [Rusty Kafka](https://github.com/simon-bittok/rusty-kafka) | Messaging experiments with Kafka, async Rust, and containerized integration tests. | Rust, Kafka, rdkafka, Axum |
+| [JSON Reader](https://github.com/simon-bittok/ratatui-json-reader) | A terminal JSON reader and editor. | Rust, Ratatui, Crossterm, Serde |
+| [Rip the Vid](https://github.com/simon-bittok/rip-the-vid) | A native desktop media tool built with Iced. | Rust, Iced |
+| [Rusty WC](https://github.com/simon-bittok/rusty-wc) | A Rust CLI reimplementation of the Unix `wc` utility. | Rust, Clap |
+
 ## Tech I use
 
 | Area | Tools |
 | --- | --- |
-| Rust & desktop | Rust, Axum, Tokio, Iced, Tauri, wgpu |
-| Web & UI | TypeScript, JavaScript, React, Next.js, TanStack, SvelteKit, Astro, Tailwind CSS |
-| APIs & security | Hono, JWT, RBAC, OpenAPI, Scalar, Utoipa, Zod, Argon2 |
-| Data | PostgreSQL, SQLx, Drizzle ORM, Redis |
-| Infrastructure | Docker, Cloudflare, GitHub Actions, Prometheus, Grafana |
-| Tooling | pnpm, Turborepo, Vite, Biome, Ollama |
+| Rust & systems | Rust, Axum, Tokio, Iced, Tauri, wgpu |
+| Web & UI | TypeScript, JavaScript, Java, React, Next.js, TanStack, SvelteKit, Astro, Tailwind CSS |
+| APIs & security | Hono, Express, JWT, RBAC, OpenAPI, Scalar, Utoipa, Zod, Argon2 |
+| Data & messaging | PostgreSQL, SQLx, Drizzle ORM, Redis, MongoDB, Kafka |
+| Terminal & tooling | Ratatui, Crossterm, Clap, pnpm, Turborepo, Vite, Biome, Ollama |
+| Infrastructure & quality | Docker, AWS, Cloudflare, GitHub Actions, Prometheus, Grafana, Testcontainers, Playwright, Vitest |
 
 ## Let’s connect
 
@@ -67,5 +80,6 @@ I’m always interested in thoughtful collaborations around Rust, backend system
 
 - [GitHub](https://github.com/arapsum)
 - [More projects on @sk-bittok](https://github.com/sk-bittok)
+- [Systems & Rust projects on @simon-bittok](https://github.com/simon-bittok)
 - [LinkedIn](https://www.linkedin.com/in/kibet-bittok-28a88038a/)
 - [X](https://x.com/herefordfanboy)

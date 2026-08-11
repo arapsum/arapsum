@@ -13,7 +13,7 @@
 
 </div>
 
-I’m a software developer based in Nairobi, Kenya. I work across systems programming, backend services, and web products. I enjoy turning hard domain problems into clear software—whether that means writing a parser in Rust, designing a multi-tenant data model, or building a reliable commerce workflow.
+I’m a software developer based in Nairobi, Kenya. I work across systems programming, backend services, and web products. I enjoy turning hard domain problems into clear software, whether that means writing a parser in Rust, designing a multi-tenant data model, or building a reliable commerce workflow.
 
 ## What I build
 

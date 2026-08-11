@@ -1,34 +1,53 @@
-<div align="center">
+<div align='center'>
 
-# Hi, there
+# Kibet Bitok arap Sum
 
-I'm **Kibet Bitok arap Sum** (github: `arapsum`) — a Full Stack Developer specializing in Rust and JavaScript.
+### Rust & TypeScript developer building reliable systems and thoughtful web products.
 
-I'm focused on backend systems and performant web apps. I enjoy exploring systems-level programming in Rust (parsers, auth, engines) while building modern TypeScript/React frontends and admin dashboards. Recently I've been learning WebGPU (wgpu) and building small engines/games to better understand graphics and performance.
-
-[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40arapsum-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/arapsum) [![X Follow](https://www.shieldcn.dev/x/follow/herefordfanboy.svg?variant=branded&size=sm)](https://x.com/herefordfanboy) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40kibet--bittok--28a88038a-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/kibet-bittok-28a88038a)
-
-[![GitHub Followers](https://www.shieldcn.dev/github/followers/arapsum.svg?variant=secondary&size=sm)](https://github.com/arapsum?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/arapsum.svg?variant=secondary&size=sm)](https://github.com/arapsum?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-9-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/arapsum?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Nairobi-6366f1.svg?logo=googlemaps&variant=ghost&size=sm) ![Company](https://www.shieldcn.dev/badge/Company-Sentinel_Systems-1f2937.svg?logo=building&variant=ghost&size=sm)
+<p>
+  <a href='https://github.com/arapsum'>GitHub</a> ·
+  <a href='https://www.linkedin.com/in/kibet-bittok-28a88038a/'>LinkedIn</a> ·
+  <a href='https://x.com/herefordfanboy'>X</a>
+</p>
 
 </div>
 
-## 🛠️ Skills & Technologies
+I’m a software developer based in Nairobi, Kenya. I like working across the stack—from parsers, authentication services, and concurrency in Rust to e-commerce products and admin interfaces in TypeScript. I learn by building small, focused tools and turning experiments into useful software.
 
+## What I build
 
-[![My Skills](https://skillicons.dev/icons?i=rust,js,ts,nodejs,react,nextjs,tailwind,html,css,git,github,docker,wasm,githubactions,webpack,linux,vscode,npm,yarn,vite,wasm&perline=8)](https://skillicons.dev)
+- Backend and systems software in Rust, with a focus on clear APIs, correctness, and performance.
+- Full-stack web applications with TypeScript, React, TanStack, Astro, and Tailwind CSS.
+- Developer tools and learning projects: parsers, shells, Unix utilities, worker pools, and graphics experiments.
+- Practical foundations with PostgreSQL, Redis, Docker, authentication, testing, and observability.
 
----
+## Featured work
 
-<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Silk](https://github.com/arapsum/silky) | An open-source fashion e-commerce platform with a Rust API and TypeScript admin app. | Rust, Axum, SQLx, PostgreSQL, Redis |
+| [Demux](https://github.com/arapsum/demux) | A native desktop utility for extracting audio from video with FFmpeg. | Rust, Iced, FFmpeg |
+| [JSON Parser](https://github.com/arapsum/jsonparser) | A hand-built lexer and recursive-descent parser for JSON. | Rust |
+| [WGPU Game](https://github.com/arapsum/wgpu-game) | A hands-on journey through graphics programming and WebGPU. | Rust, wgpu |
 
-## Connect with Me
+## Tech I use
 
-### Connect with Me 🔗
+| Area | Tools |
+| --- | --- |
+| Systems & backend | Rust, Axum, Tokio, SQLx, JWT |
+| Web | TypeScript, JavaScript, React, TanStack, Astro, Next.js, Tailwind CSS |
+| Data & infrastructure | PostgreSQL, Redis, Docker, GitHub Actions, Linux |
 
-- 🐙 GitHub: [github.com/arapsum](https://github.com/arapsum)
-- 🐦 Twitter: [@herefordfanboy](https://x.com/herefordfanboy)
-- 💼 LinkedIn: [Kibet Bitok arap Sum](https://www.linkedin.com/in/kibet-bittok-28a88038a/)
-- 🏢 Company: Bit-Tech
-- 📍 Location: Nairobi, Kenya
+## Currently learning
 
-Feel free to open an issue or PR on any repository, or reach out on Twitter / LinkedIn for collaboration, consulting, or chatting about Rust and modern web stacks. ✉️
+- Desktop applications with Iced and media pipelines with FFmpeg.
+- Graphics programming with wgpu and WebGPU.
+- Writing small, well-tested Rust libraries and command-line tools.
+
+## Let’s connect
+
+I’m always interested in thoughtful collaborations around Rust, backend systems, developer tooling, and modern web applications.
+
+- [GitHub](https://github.com/arapsum)
+- [LinkedIn](https://www.linkedin.com/in/kibet-bittok-28a88038a/)
+- [X](https://x.com/herefordfanboy)

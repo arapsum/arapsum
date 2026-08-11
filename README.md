@@ -6,6 +6,7 @@
 
 <p>
   <a href='https://github.com/arapsum'>GitHub</a> ·
+  <a href='https://github.com/sk-bittok'>More projects</a> ·
   <a href='https://www.linkedin.com/in/kibet-bittok-28a88038a/'>LinkedIn</a> ·
   <a href='https://x.com/herefordfanboy'>X</a>
 </p>
@@ -16,10 +17,10 @@ I’m a software developer based in Nairobi, Kenya. I work across systems progra
 
 ## What I build
 
-- Backend and systems software in Rust, with a focus on clear APIs, correctness, and performance.
-- Full-stack web applications with TypeScript, React, TanStack, Astro, and Tailwind CSS.
-- Developer tools and learning projects: parsers, shells, Unix utilities, worker pools, and graphics experiments.
-- Practical foundations with authentication, testing, observability, PostgreSQL, Redis, and Docker.
+- **Reliable backend systems:** authenticated APIs, task platforms, and domain services in Rust/Axum and TypeScript/Hono.
+- **Product software for real workflows:** commerce, budgeting, task management, real estate, livestock, and supply-chain tools with roles, tenancy, and operational data.
+- **Developer tools and desktop apps:** parsers, shells, Unix utilities, worker pools, Rust/Iced editors, Tauri clients, graphics experiments, and local LLM tools.
+- **Fast product frontends:** React, Next.js, TanStack, and SvelteKit applications with responsive, focused interfaces.
 
 ## Current focus
 
@@ -39,19 +40,32 @@ I’m a software developer based in Nairobi, Kenya. I work across systems progra
 | [JSON Parser](https://github.com/arapsum/jsonparser) | A hand-built lexer and recursive-descent parser for JSON. | Rust |
 | [WGPU Game](https://github.com/arapsum/wgpu-game) | A hands-on journey through graphics programming and WebGPU. | Rust, wgpu |
 
+## More experiments
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Polaris](https://github.com/sk-bittok/polaris) | A multi-organization livestock management system with health, production, and role-based access records. | Rust, Axum, PostgreSQL, SQLx |
+| [Tasks Auth](https://github.com/sk-bittok/tasks-auth) | An authenticated task-management API with OpenAPI documentation and structured logging. | TypeScript, Hono, Drizzle, PostgreSQL, Zod |
+| [Rusty Editor](https://github.com/sk-bittok/rusty-editor) | A simple, fast desktop text editor. | Rust, Iced |
+| [LLM Locally](https://github.com/sk-bittok/llm-locally) | A desktop client for running language models locally with Ollama. | Tauri, Rust, React, TypeScript |
+| [Turing](https://github.com/sk-bittok/mdblog-svelte) | A Markdown blog with RSS, syntax highlighting, filtering, and themes. | SvelteKit, MDsveX, Shiki |
+
 ## Tech I use
 
 | Area | Tools |
 | --- | --- |
-| Systems & backend | Rust, Axum, Tokio, SQLx, JWT |
-| Web | TypeScript, JavaScript, React, TanStack, Astro, Next.js, Tailwind CSS |
-| Data & infrastructure | PostgreSQL, Redis, Docker, Cloudflare, GitHub Actions, Linux |
-| Quality & delivery | Vitest, Playwright, Prometheus, Grafana |
+| Rust & desktop | Rust, Axum, Tokio, Iced, Tauri, wgpu |
+| Web & UI | TypeScript, JavaScript, React, Next.js, TanStack, SvelteKit, Astro, Tailwind CSS |
+| APIs & security | Hono, JWT, RBAC, OpenAPI, Scalar, Utoipa, Zod, Argon2 |
+| Data | PostgreSQL, SQLx, Drizzle ORM, Redis |
+| Infrastructure | Docker, Cloudflare, GitHub Actions, Prometheus, Grafana |
+| Tooling | pnpm, Turborepo, Vite, Biome, Ollama |
 
 ## Let’s connect
 
 I’m always interested in thoughtful collaborations around Rust, backend systems, developer tooling, and modern web applications.
 
 - [GitHub](https://github.com/arapsum)
+- [More projects on @sk-bittok](https://github.com/sk-bittok)
 - [LinkedIn](https://www.linkedin.com/in/kibet-bittok-28a88038a/)
 - [X](https://x.com/herefordfanboy)

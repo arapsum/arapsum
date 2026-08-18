@@ -2,9 +2,9 @@
 
 # Kibet Bitok arap Sum
 
-### Rust systems, native tools, and full-stack products.
+### Software developer building reliable systems, native tools, and product experiences.
 
-Rust · TypeScript · Product engineering
+Rust · TypeScript · Backend architecture · Product engineering
 
 <p>
   <a href="https://github.com/arapsum">GitHub</a> ·
@@ -14,53 +14,43 @@ Rust · TypeScript · Product engineering
 
 </div>
 
-I’m a software developer in Nairobi, Kenya. I build dependable software across backend systems, native desktop tools, and web products, with a focus on clear workflows, trustworthy data, and interfaces that make complex work feel straightforward.
+I’m a software developer in Nairobi, Kenya. I build software end to end: modelling data, designing APIs, implementing workflows, building interfaces, testing failure modes, and deploying the result. My strongest work sits where backend architecture meets product experience—especially when authentication, permissions, background processing, or complex relationships make a product more than CRUD.
 
-## What I build
+## Current focus
 
-- **Backend systems** with Rust, Axum, SQLx, PostgreSQL, Redis, JWT, tracing, and OpenAPI.
-- **Operational products** for commerce, supply chains, finance, and other workflows that need roles, permissions, and reliable data.
-- **Native tools** with Rust, Iced, Ratatui, and FFmpeg, from code editors to media utilities and terminal applications.
-- **Full-stack web applications** with TypeScript, React, TanStack, Astro, SvelteKit, and Tailwind CSS.
+I’m currently building **TierTrace**, a multi-tenant supply-chain intelligence platform. Its domain is graph-shaped: products, components, facilities, materials, and organisations are connected, and disruptions can propagate through those relationships. The system currently includes a Rust/Axum backend, SurrealDB schema migrations, workspace isolation, browser sessions, membership-aware access control, and an initial React client.
 
-## Featured work
+## Selected work
 
-| Project | Focus |
+| Project | What it demonstrates |
 | --- | --- |
-| [Silk](https://github.com/arapsum/silky) | Fashion e-commerce with a Rust API, React admin app, PostgreSQL, Redis workers, cookie-based authentication, and role-aware catalogue management. |
-| [Rusty Editor](https://github.com/arapsum/rusty-editor) | A focused native code editor with multi-document sessions, workspaces, syntax highlighting, search and replace, and asynchronous file I/O. |
-| [Demux](https://github.com/arapsum/demux) | A Rust desktop app that extracts audio from local video files using FFmpeg, with queue management, live progress, metadata handling, and safe cancellation. |
-| [Elektronika](https://github.com/arapsum/elektronika) | A cloud-native electronics commerce system spanning storefront, administration, inventory, authentication, testing, and observability. |
-| [Rust Auth](https://github.com/arapsum/rust-auth) | A stateless Rust authentication service using RS256 access and refresh tokens, SQLx migrations, PostgreSQL, and environment-specific configuration. |
+| [Silk](https://github.com/arapsum/silky) | A full-stack fashion commerce platform with a Rust/Axum API, React admin application, PostgreSQL, Redis workers, cookie-based authentication, permissions, and catalogue management. |
+| [Rusty Editor](https://github.com/arapsum/rusty-editor) | A native Rust/Iced code editor with multi-document sessions, workspaces, syntax highlighting, search and replace, async file I/O, and a focused desktop shell. |
+| [Demux](https://github.com/arapsum/demux) | A Rust/Iced media utility that wraps FFmpeg with queue management, probing, progress reporting, cancellation, pause/resume, bounded logs, and safe output handling. |
+| [Elektronika](https://github.com/arapsum/elektronika) | A cloud-native electronics commerce system spanning customer and admin applications, inventory, authentication, testing, observability, and containerized deployment. |
+| [Rust Auth](https://github.com/arapsum/rust-auth) | A stateless Rust authentication service using Axum, PostgreSQL, SQLx migrations, RS256 access and refresh tokens, configuration environments, and structured tracing. |
 | [JSON Parser](https://github.com/arapsum/jsonparser) | A hand-built lexer and recursive-descent JSON parser with Unicode escape handling, library APIs, and integration tests. |
 
-## Public work from earlier accounts
+## Engineering strengths
 
-| Project | Focus |
-| --- | --- |
-| [Polaris](https://github.com/sk-bittok/polaris) | Multi-organization livestock management with roles, health and production records, and a Rust/Axum backend. |
-| [Tasks Auth](https://github.com/sk-bittok/tasks-auth) | An authenticated TypeScript task API built with Hono, Drizzle, PostgreSQL, validation, structured logging, and OpenAPI. |
-| [Rusty Kafka](https://github.com/simon-bittok/rusty-kafka) | Async Rust messaging experiments with Kafka, Axum, PostgreSQL, and containerized integration testing. |
+- **Backend and data:** Rust, Axum, Tokio, SQLx, PostgreSQL, SurrealDB, Redis, JWT and browser-session authentication, Argon2, RBAC.
+- **Full-stack products:** TypeScript, React, TanStack, Next.js, SvelteKit, Astro, Tailwind CSS.
+- **Native and systems:** Iced, Ratatui, FFmpeg, wgpu, asynchronous file and process I/O.
+- **Delivery and quality:** Docker, Cloudflare, GitHub Actions, tracing, OpenAPI, Prometheus, Grafana, Playwright, and Vitest.
 
-## Technology
+## How I work
 
-| Area | Tools |
-| --- | --- |
-| Systems and services | Rust, Axum, Tokio, Hono, SQLx, Drizzle ORM |
-| Data and messaging | PostgreSQL, Redis, SurrealDB, Kafka, Serde |
-| Security and APIs | JWT, Argon2, RBAC, OpenAPI, Scalar, Utoipa, Zod |
-| Native and terminal | Iced, Ratatui, Crossterm, Tauri, Clap, FFmpeg, wgpu |
-| Web | TypeScript, React, TanStack, Next.js, SvelteKit, Astro, Tailwind CSS |
-| Quality and operations | Docker, Cloudflare, GitHub Actions, Playwright, Vitest, Prometheus, Grafana |
+- Take ownership from schema and architecture through interface and deployment.
+- Make boundaries explicit: tenants, permissions, sessions, background jobs, and failure recovery.
+- Build clear workflows and usable interfaces, not only working endpoints.
+- Prefer small, testable components and documentation that explains important decisions.
 
-## Currently focused on
+## Earlier work
 
-- Native Rust interfaces for editing, media workflows, and graphics.
-- Multi-tenant, event-driven systems for operational intelligence.
-- Reliable developer tooling and backend architecture.
+- [Polaris](https://github.com/sk-bittok/polaris) — multi-organization livestock management with roles, production records, and a Rust/Axum backend.
+- [Tasks Auth](https://github.com/sk-bittok/tasks-auth) — an authenticated TypeScript task API with Hono, Drizzle, PostgreSQL, validation, structured logging, and OpenAPI.
+- [Rusty Kafka](https://github.com/simon-bittok/rusty-kafka) — async Rust messaging experiments with Kafka, Axum, PostgreSQL, and containerized integration testing.
 
-## Connect
+I’m open to collaborations around Rust, backend systems, developer tooling, supply-chain intelligence, and modern web products.
 
-I’m open to collaborations around Rust, backend systems, developer tooling, and modern web products.
-
-[GitHub](https://github.com/arapsum) · [LinkedIn](https://www.linkedin.com/in/kibet-bittok-28a88038a/) · [X](https://x.com/herefordfanboy)
+[GitHub](https://github.com/arapsum) · [LinkedIn](https://www.linkedin.com/in/kibet-bittok-28a88038/) · [X](https://x.com/herefordfanboy)

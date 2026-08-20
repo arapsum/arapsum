@@ -14,7 +14,7 @@ Rust · TypeScript · Backend architecture · Product engineering
 
 </div>
 
-I’m a software developer in Nairobi, Kenya. I build software end to end: modelling data, designing APIs, implementing workflows, building interfaces, testing failure modes, and deploying the result. My strongest work sits where backend architecture meets product experience—especially when authentication, permissions, background processing, or complex relationships make a product more than CRUD.
+I’m a software developer in Nairobi, Kenya. I build software end to end: modelling data, designing APIs, implementing workflows, building interfaces, testing failure modes, and deploying the result. My strongest work sits where backend architecture meets product experience, especially when authentication, permissions, background processing, or complex relationships make a product more than CRUD.
 
 ## Current focus
 

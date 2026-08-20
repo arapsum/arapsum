@@ -53,4 +53,4 @@ I’m currently building **TierTrace**, a multi-tenant supply-chain intelligence
 
 I’m open to collaborations around Rust, backend systems, developer tooling, supply-chain intelligence, and modern web products.
 
-[GitHub](https://github.com/arapsum) · [LinkedIn](https://www.linkedin.com/in/kibet-bittok-28a88038/) · [X](https://x.com/herefordfanboy)
+[GitHub](https://github.com/arapsum) · [LinkedIn](https://www.linkedin.com/in/kibetarapsum/) · [X](https://x.com/herefordfanboy)

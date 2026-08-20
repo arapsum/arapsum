@@ -27,7 +27,7 @@ I’m currently building **TierTrace**, a multi-tenant supply-chain intelligence
 | [Silk](https://github.com/arapsum/silky) | A full-stack fashion commerce platform with a Rust/Axum API, React admin application, PostgreSQL, Redis workers, cookie-based authentication, permissions, and catalogue management. |
 | [Rusty Editor](https://github.com/arapsum/rusty-editor) | A native Rust/Iced code editor with multi-document sessions, workspaces, syntax highlighting, search and replace, async file I/O, and a focused desktop shell. |
 | [Demux](https://github.com/arapsum/demux) | A Rust/Iced media utility that wraps FFmpeg with queue management, probing, progress reporting, cancellation, pause/resume, bounded logs, and safe output handling. |
-| [Elektronika](https://github.com/arapsum/elektronika) | A cloud-native electronics commerce system spanning customer and admin applications, inventory, authentication, testing, observability, and containerized deployment. |
+| [Curren Carter](https://www.currencarter.com) | A Kenya-focused electronics catalogue and order-request platform with a TanStack storefront, Next.js operations dashboard, Hono API, PostgreSQL, granular RBAC, stock reservations, and secure pay-at-handover verification. |
 | [Rust Auth](https://github.com/arapsum/rust-auth) | A stateless Rust authentication service using Axum, PostgreSQL, SQLx migrations, RS256 access and refresh tokens, configuration environments, and structured tracing. |
 | [JSON Parser](https://github.com/arapsum/jsonparser) | A hand-built lexer and recursive-descent JSON parser with Unicode escape handling, library APIs, and integration tests. |
 

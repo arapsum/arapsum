@@ -20,7 +20,7 @@ I’m a software developer in Nairobi, Kenya. I take products from the data mode
 
 - **Backend systems** in Rust with Axum, Tokio, SQLx, PostgreSQL, Redis, JWT, tracing, and OpenAPI.
 - **Operational products** for commerce and data-heavy workflows, designed around clear roles, reliable state, and practical interfaces.
-- **Native developer and media tools** with Rust, Iced, Ratatui, asynchronous I/O, and FFmpeg.
+- **Native developer and media tools** with Rust, Iced, GPUI, Ratatui, asynchronous I/O, and FFmpeg.
 - **Full-stack web applications** with TypeScript, React, TanStack, Next.js, SvelteKit, Astro, and Tailwind CSS.
 
 ## Selected work
@@ -29,6 +29,7 @@ I’m a software developer in Nairobi, Kenya. I take products from the data mode
 | --- | --- |
 | [Silk](https://github.com/arapsum/silky) | Fashion commerce platform with a Rust/Axum API, React admin application, PostgreSQL, Redis workers, cookie-based authentication, permissions, and catalogue management. |
 | [Rusty Editor](https://github.com/arapsum/rusty-editor) | Focused native code editor with multi-document sessions, workspaces, syntax highlighting, search and replace, async file I/O, and a polished desktop shell. |
+| [Cadence](https://github.com/arapsum/cadence) | Local-first Rust and GPUI desktop timetable with SQLite storage, recurring schedules, drag and resize interactions, scoped edits, undo and redo, backups, and recovery. |
 | [Demux](https://github.com/arapsum/demux) | Native Rust app for extracting audio from video with FFmpeg, queue management, media probing, live progress, cancellation, pause and resume, and safe output handling. |
 | [Elektronika](https://github.com/arapsum/elektronika) | Cloud-native electronics commerce system covering storefront, administration, inventory, authentication, testing, and observability. |
 | [Rust Auth](https://github.com/arapsum/rust-auth) | Stateless authentication service using Axum, PostgreSQL, SQLx migrations, RS256 access and refresh tokens, environment configuration, and structured tracing. |
@@ -41,7 +42,7 @@ I’m a software developer in Nairobi, Kenya. I take products from the data mode
 | Systems and services | Rust, Axum, Tokio, Hono, SQLx, Drizzle ORM |
 | Data and messaging | PostgreSQL, Redis, SurrealDB, Kafka, Serde |
 | Security and APIs | JWT, Argon2, RBAC, OpenAPI, Scalar, Utoipa, Zod |
-| Native and terminal | Iced, Ratatui, Crossterm, Tauri, Clap, FFmpeg, wgpu |
+| Native and terminal | Iced, GPUI, Ratatui, Crossterm, Tauri, Clap, FFmpeg, wgpu |
 | Web | TypeScript, React, TanStack, Next.js, SvelteKit, Astro, Tailwind CSS |
 | Quality and operations | Docker, Cloudflare, GitHub Actions, Playwright, Vitest, Prometheus, Grafana |
 

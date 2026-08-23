@@ -8,7 +8,7 @@ Rust · TypeScript · Backend architecture · Product engineering
 
 <p>
   <a href="https://github.com/arapsum">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/kibet-bittok-28a88038a/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/kibetarapsum/">LinkedIn</a> ·
   <a href="https://x.com/herefordfanboy">X</a>
 </p>
 

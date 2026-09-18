@@ -1,76 +1,49 @@
 <div align="center">
 
-# Kibet Bitok arap Sum
+# Hey, I'm Kibet 👋
 
-### Building dependable systems, native tools, and product-focused software.
+### I build software with sturdy insides and friendly edges.
 
-Rust · TypeScript · Backend architecture · Product engineering
+A developer in Nairobi, Kenya, happiest somewhere between a Rust service, a native desktop window, and a thoughtful product detail.
 
-<p>
-  <a href="https://github.com/arapsum">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/kibet-bittok-28a88038a/">LinkedIn</a> ·
-  <a href="https://x.com/herefordfanboy">X</a>
-</p>
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-I’m a software developer in Nairobi, Kenya. I take products from the data model
-and API through to the interface, testing, and deployment. I enjoy the parts of
-software that need careful engineering: authentication, permissions, background
-work, resilient workflows, and relationships that are more complex than a
-simple CRUD screen.
+## On my workbench right now 🛠️
 
-## What I’m building now
+**[Magenta](https://github.com/arapsum/magenta)** is a native AI chat and workspace client for Linux, built with Rust and GPUI Kit. It brings streaming conversations, searchable SQLite history, a code workbench, Git changes, and an approval-controlled agent into one desktop app. I care about the little details here: keeping memory bounded, making work cancellable, and showing people exactly what an agent wants to change.
 
-**[Magenta](https://github.com/arapsum/magenta)** is my native, local-first AI
-chat client for Linux. It is built in Rust with GPUI—no Electron or embedded
-browser—and currently supports ChatGPT sign-in, OpenAI streaming, SQLite-backed
-conversation history, full-text search, image prompts, rich Markdown, and
-editable local settings.
+## A few things I've made
 
-The project is also where I’m exploring provider-neutral architecture, bounded
-memory, cancellable streaming, secure credential storage, and polished native
-desktop interaction.
+- 📅 **[Cadence](https://github.com/arapsum/cadence)** is a local-first timetable built with Rust and GPUI. Plan a day or a week, drag events around, set recurring routines and reminders, and keep everything in SQLite.
+- 🎧 **[Demux](https://github.com/arapsum/demux)** makes audio extraction with FFmpeg feel like a proper desktop workflow. Drop in videos, inspect the queue, choose your output, and follow the progress.
+- ✏️ **[Rusty Editor](https://github.com/arapsum/rusty-editor)** is my take on a focused code editor in Rust and Iced, with tabs, workspaces, syntax highlighting, search, and async file handling.
+- 🛍️ **[Silk](https://github.com/arapsum/silky)** puts a Rust/Axum commerce API behind a React admin app, with authentication, permissions, catalogue management, PostgreSQL, and Redis workers.
+- 🪐 **[Grand Orrery](https://github.com/arapsum/grand-orrery)** is an interactive solar system built with React, TypeScript, and Three.js. Part graphics experiment, part excuse to make the planets spin.
 
-## Selected work
+## The tools I reach for
 
-| Project | Focus |
-| --- | --- |
-| [Magenta](https://github.com/arapsum/magenta) | Native, local-first AI chat with GPUI, provider-neutral architecture, streaming, and durable SQLite history. |
-| [Cadence](https://github.com/arapsum/cadence) | Local-first Rust and GPUI desktop timetable with SQLite storage, recurring schedules, drag and resize interactions, scoped edits, undo and redo, backups, and recovery. |
-| [Grove](https://github.com/arapsum/grove) | Native Rust issue tracker, monitor, and manager. |
-| [Demux](https://github.com/arapsum/demux) | Native Rust app for extracting audio from video with FFmpeg, queue management, media probing, live progress, cancellation, pause and resume, and safe output handling. |
-| [Rusty Editor](https://github.com/arapsum/rusty-editor) | Focused native code editor with multi-document sessions, workspaces, syntax highlighting, search and replace, async file I/O, and a polished desktop shell. |
-| [Silk](https://github.com/arapsum/silky) | Fashion commerce platform with a Rust/Axum API, React admin application, PostgreSQL, Redis workers, cookie-based authentication, permissions, and catalogue management. |
-| [Elektronika](https://github.com/arapsum/elektronika) | Cloud-native electronics commerce system covering storefront, administration, inventory, authentication, testing, and observability. |
-| [Rust Auth](https://github.com/arapsum/rust-auth) | Stateless authentication service using Axum, PostgreSQL, SQLx migrations, RS256 access and refresh tokens, environment configuration, and structured tracing. |
-| [JSON Parser](https://github.com/arapsum/jsonparser) | Hand-built lexer and recursive-descent JSON parser with Unicode escape handling, library APIs, and integration tests. |
+**Systems and desktop:** Rust, Axum, Tokio, GPUI, Iced, Ratatui, FFmpeg.  
+**Web and product:** TypeScript, React, TanStack, Astro, Tailwind CSS.  
+**Data and delivery:** PostgreSQL, SQLite, Redis, SQLx, Docker, GitHub Actions.
 
-## Engineering toolkit
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-| Area | Tools |
-| --- | --- |
-| Systems and services | Rust, Axum, Tokio, Hono, SQLx, Drizzle ORM |
-| Data and messaging | PostgreSQL, SQLite, Redis, SurrealDB, Kafka, Serde |
-| Security and APIs | JWT, Argon2, RBAC, OpenAPI, Scalar, Utoipa, Zod |
-| Native and terminal | GPUI, Iced, Ratatui, Crossterm, Tauri, Clap, FFmpeg, wgpu |
-| Web | TypeScript, React, TanStack, Next.js, SvelteKit, Astro, Tailwind CSS |
-| Quality and operations | Docker, Cloudflare, GitHub Actions, Playwright, Vitest, Prometheus, Grafana |
+I like building the whole path from data model to interface. If a workflow involves tricky state, permissions, background work, or a surprisingly stubborn edge case, I'm probably interested.
 
-## How I work
+## Earlier chapters 📚
 
-- Own the path from architecture through product experience.
-- Define explicit boundaries for tenants, permissions, sessions, jobs, and recovery.
-- Prefer small, testable components with documentation for decisions that matter.
-- Build interfaces that make complex workflows easier to understand and operate.
+My other public accounts hold some of the road that got me here: [Polaris](https://github.com/sk-bittok/polaris) for livestock management, [Tasks Auth](https://github.com/sk-bittok/tasks-auth) for a TypeScript API, and [Rusty Kafka](https://github.com/simon-bittok/rusty-kafka) for async messaging experiments.
 
-## Earlier public work
+## Say hello
 
-- [Polaris](https://github.com/sk-bittok/polaris): multi-organization livestock management with roles, production records, and a Rust/Axum backend.
-- [Tasks Auth](https://github.com/sk-bittok/tasks-auth): authenticated TypeScript task API using Hono, Drizzle, PostgreSQL, validation, structured logging, and OpenAPI.
-- [Rusty Kafka](https://github.com/simon-bittok/rusty-kafka): async Rust messaging experiments with Kafka, Axum, PostgreSQL, and containerized integration testing.
-
-I’m open to collaborations around Rust, native applications, backend systems,
-developer tooling, and modern web products.
+I'm open to collaborating on Rust, native apps, backend systems, and web products that need a little care.
 
 [GitHub](https://github.com/arapsum) · [LinkedIn](https://www.linkedin.com/in/kibet-bittok-28a88038a/) · [X](https://x.com/herefordfanboy)
